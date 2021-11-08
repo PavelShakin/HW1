@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HW1</string>
+    <string name="btnText">Go to second activity</string>
+    <string name="txtSecondActivity">It\'s second activity</string>
 </resources>
